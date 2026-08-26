@@ -1,0 +1,46 @@
+
+
+
+body{
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+nav{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a{
+    color:black;
+    text-decoration: none;  
+    border-radius: 5em;
+    border-style: solid;
+    border-color: darkgrey;
+    padding: 1em;
+    margin: 1em;
+
+}
+nav a:hover {
+    color: black;
+    border-color: lightblue;
+}
+
+section {
+    margin: 2em;
+    padding: 1em;
+     border-radius: 1px;
+    border-style: solid;
+    border-color: darkgrey;
+}
+footer {
+    text-align: left;
+    color: black;
+    color: gray;
+    font-size: 0.9em;
+}
+.irmas {
+width: 300px;
+height: 250px;
+}
