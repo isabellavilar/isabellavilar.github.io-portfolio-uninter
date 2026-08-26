@@ -4,14 +4,14 @@ body{
     color: black;
     text-align: center;
     background-color: #f8f9fa;;
-}
+} /* trocando a cor do fundo, a fonte, alinhamento do texto no portfolio todo */
 
 nav{
     background-color: aliceblue;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-}
+} /* Mudando a barrra de navegação pra ficar mais intuitiva */
 
 nav a{
     color:black;
@@ -22,11 +22,11 @@ nav a{
     padding: 1em;
     margin: 1em;
 
-}
+} /* Ajustando a maneira que as Informações se apresentam dentro da navegação */
 nav a:hover {
     color: black;
     border-color: lightblue;
-}
+} /* Interação para mudar quando passar o mouse por cima do link */
 
 section {
     margin: 2em;
@@ -40,9 +40,9 @@ footer {
     color: black;
     color: gray;
     font-size: 0.9em;
-}
+} /* Ajuste do rodapé do site */
 .irmas {
 width: 30%;
 min-width: 150px; 
 height: auto;
-}
+} /* Ajuste da imagem das minhas irmãs para ficar mais adequada ao enquadramento do site */
